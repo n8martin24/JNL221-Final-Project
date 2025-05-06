@@ -1,0 +1,57 @@
+body {
+
+    background-color: #fa8c00;
+    max-width: 1150px;
+    margin: 10px auto;
+    padding: 0px 8px;
+}
+
+h1 {
+	font-family: Franklin Gothic, sans-serif;
+	max-width: 750px;
+    margin: 10px auto;
+    font-size: 42px;
+
+}
+
+h2 {font-family: Franklin Gothic, sans-serif;
+	max-width: 750px;
+    margin: 5px auto;
+    font-size: 22px;
+}
+
+h4 {
+	font-family: Franklin Gothic, sans-serif;
+	max-width: 750px;
+    margin: 5px auto;
+    font-size: 16px;
+}
+
+.story {
+    background-color: lightgray;
+    max-width: 1000px;
+    margin: 10px auto;
+    border: 5px solid white;
+    padding: 0px 8px;
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
+    color: black;
+}
+
+.graph {
+	max-width: 50%;
+}
+
+img {
+	width: 50%;
+	margin: auto;
+	margin-top: 10px;
+	display: block;
+}
+
+.photo {
+	font-size: 14px;
+  line-height: 14px;
+  width: 50%;
+  margin: 5px auto;
+}
